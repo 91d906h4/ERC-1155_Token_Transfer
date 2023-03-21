@@ -1,5 +1,5 @@
 <div align="center">
-    <h3>MyWallet</h3>
+    <h1>MyWallet</h1>
     <p align="center">
         An ERC-1155 token transfer and explorer.
     </p>
