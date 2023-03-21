@@ -1,3 +1,3 @@
-# ERC-1155 Token Transfer
+# MyWallet
 
 An ERT-1155 tokne transfer website.
