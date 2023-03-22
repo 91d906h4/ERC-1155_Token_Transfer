@@ -58,12 +58,20 @@ You can simple built a docker image with the Dockerfile.
 
 ### Installation
 
-1. Build an image with the Dockerfile.
+1. Clone the repository from GitHub.
+```sh
+git clone https://github.com/91d906h4/MyWallet.git
+```
+```sh
+cd .\MyWallet\
+```
+
+2. Build an image with the Dockerfile.
 ```sh
 docker image build -t mywallet-server .
 ```
 
-2. Run the image.
+3. Run the image.
 ```sh
 docker run -dp 20000:10000 mywallet-server
 ```
