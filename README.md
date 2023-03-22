@@ -82,7 +82,7 @@ docker run -dp 20000:10000 mywallet-server
 
 ## Usage
 
-Just access the hidden service with Tor Browser and start to transfer your MyWallet tokens.
+Just access the hidden service via Tor Browser and start to transfer your MyWallet tokens.
 
 ## License
 
